@@ -81,11 +81,12 @@ Note: These endpoints are for demo use and operate on static or mock data.
 ---
 
 ### 📌 TODO (Future Enhancements)
--Connect with a real database (e.g., MongoDB or PostgreSQL)
--Add authentication with JWT
--Integrate product search and filter features
--Implement real-time cart updates
--Stripe or Razorpay integration for checkout
+
+- Connect with a real database (e.g., MongoDB or PostgreSQL)
+- Add authentication with JWT
+- Integrate product search and filter features
+- Implement real-time cart updates
+- Stripe or Razorpay integration for checkout
 
 ---
  ### 🧠 Learning Outcomes
