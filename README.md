@@ -7,12 +7,12 @@ A full-stack e-commerce web application inspired by [Myntra](https://www.myntra.
 ---
 
 ## 📁 Project Structure
-
+```
 ├── 2-Actual-Backend/ # Node.js + Express server
 ├── 3-myntra-react-clone/ # React + Redux frontend (Vite)
 ├── Pre-Model/ # Model logic or mock data (optional use)
 └── .gitignore
-
+```
 ---
 
 ## ✨ Features
