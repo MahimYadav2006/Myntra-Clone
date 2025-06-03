@@ -8,7 +8,6 @@ A full-stack e-commerce web application inspired by [Myntra](https://www.myntra.
 
 ## 📁 Project Structure
 
-/
 ├── 2-Actual-Backend/ # Node.js + Express server
 ├── 3-myntra-react-clone/ # React + Redux frontend (Vite)
 ├── Pre-Model/ # Model logic or mock data (optional use)
@@ -59,6 +58,7 @@ cd ../2-Actual-Backend
 npm install
 node index.js
 ```
+---
 
 ### API Overview
 | Endpoint        | Method | Description             |
@@ -68,7 +68,7 @@ node index.js
 | `/api/login`    | POST   | Simulate login endpoint |
 
 Note: These endpoints are for demo use and operate on static or mock data.
-
+---
 ### ⚙️ Tech Stack
 | Layer    | Tech                                     |
 | -------- | ---------------------------------------- |
@@ -78,33 +78,28 @@ Note: These endpoints are for demo use and operate on static or mock data.
 | Icons    | react-icons                              |
 | Linting  | ESLint                                   |
 
+---
+
 ### 📌 TODO (Future Enhancements)
- Connect with a real database (e.g., MongoDB or PostgreSQL)
+-Connect with a real database (e.g., MongoDB or PostgreSQL)
+-Add authentication with JWT
+-Integrate product search and filter features
+-Implement real-time cart updates
+-Stripe or Razorpay integration for checkout
 
- Add authentication with JWT
-
- Integrate product search and filter features
-
- Implement real-time cart updates
- 
- Stripe or Razorpay integration for checkout
-
+---
  ### 🧠 Learning Outcomes
- Mastered Redux Toolkit with scalable architecture
-
-Understood Vite-based React project structuring
-
-Implemented backend API using Express
-
-Practiced full-stack integration and debugging
+-Mastered Redux Toolkit with scalable architecture
+-Understood Vite-based React project structuring
+-Implemented backend API using Express
+-Practiced full-stack integration and debugging
 
 ### 🧔 Author
 Mahim Yadav
 Coordinator, Coding Club – IIT Jammu
 
 Feel free to reach out for feedback, collaboration, or just to talk code.
-
-"Build projects. Break stuff. Learn fast."
+>"Build projects. Break stuff. Learn fast."
 
 
 
