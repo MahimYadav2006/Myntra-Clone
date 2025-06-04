@@ -90,10 +90,10 @@ Note: These endpoints are for demo use and operate on static or mock data.
 
 ---
  ### 🧠 Learning Outcomes
--Mastered Redux Toolkit with scalable architecture
--Understood Vite-based React project structuring
--Implemented backend API using Express
--Practiced full-stack integration and debugging
+- Mastered Redux Toolkit with scalable architecture
+- Understood Vite-based React project structuring
+- Implemented backend API using Express
+- Practiced full-stack integration and debugging
 
 ### 🧔 Author
 Mahim Yadav
